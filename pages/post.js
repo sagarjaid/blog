@@ -3,8 +3,7 @@ import Card from '@/components/Card';
 import Footer from '@/components/Footer';
 import Nav from '@/components/Nav';
 import ShareBar from '@/components/ShareBar';
-import Tag from '@/components/Tag';
-import TagBar from '@/components/Tagbar';
+import TagBar from '@/components/TagBar';
 import React from 'react';
 
 const Home = () => {
